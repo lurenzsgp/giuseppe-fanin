@@ -24,7 +24,7 @@ const Text = styled.p`
 `;
 
 const Index = () => (<Layout>
-    <Spinner src='/static/logo.svg' alt='logo' />
+    <Spinner src='../static/logo.svg' alt='logo' />
     <Text>Sito in costruzione.</Text>
 </Layout>)
 

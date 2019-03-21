@@ -4934,7 +4934,7 @@ var Index = function Index() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Spinner, {
-    src: "/static/logo.svg",
+    src: "../static/logo.svg",
     alt: "logo",
     __source: {
       fileName: _jsxFileName,
