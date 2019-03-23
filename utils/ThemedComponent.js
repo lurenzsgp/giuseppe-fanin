@@ -7,9 +7,11 @@ export const theme = {
             standard: '#51a3a3',
             light: '#a8d0db',
             dark: '#2b4570'
-        }, 
+        },
         brown: '#a37a74',
-        orange: 'e49273',
+        orange: '#e49273',
+        black: 'black',
+        white: 'white'
     },
 }
 
