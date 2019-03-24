@@ -15,7 +15,9 @@ export default class MyCustomDocument extends Document {
 			<Head>
 				{this.props.styleTags}
 				<link rel="icon" type="image/x-icon" href='static/favico.png' />
+				<title>Giuseppe Fanin</title>
 				<meta charset="UTF-8" />
+				<meta name="viewport" content="initial-scale=1.0, width=device-width" />
 				<meta name="description" content="Vita di Giuseppe Fanin" />
 				<meta name="keywords" content="Guseppe, Fanin, Servo di Dio, Santo, San, Beato, Lorenzatico, Tassinara, Martire" />
 				<meta name="author" content="Lorenzo Cazzoli" />
