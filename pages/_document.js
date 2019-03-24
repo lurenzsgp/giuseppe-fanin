@@ -14,7 +14,7 @@ export default class MyCustomDocument extends Document {
 		<html>
 			<Head>
 				{this.props.styleTags}
-				<link rel="icon" type="image/x-icon" href='static/favico.png' />
+				<link rel="icon" type="image/x-icon" href='static/favico.webp' />
 				<title>Giuseppe Fanin</title>
 				<meta charset="UTF-8" />
 				<meta name="viewport" content="initial-scale=1.0, width=device-width" />

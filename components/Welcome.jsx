@@ -52,7 +52,11 @@ const Title = styled.span`
 const Welcome = () =>
 {
     return (<TitleGrid>
-        <Image src='static/ritratto_copertina.png' />
+        <picture>
+            <source srcSet="static/ritratto_copertina.webp" type="image/webp" />
+            <source srcSet="static/ritratto_copertina.png" type="image/png" />
+            <Image src="static/ritratto_copertina.png" alt="Ritratto di Giuseppe Fanin" />
+        </picture>
         <Title>24 anni,
             <br />una bicicletta sotto ai piedi
             <br />e un rosario tra le mani.
