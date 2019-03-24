@@ -62,7 +62,8 @@ const Welcome = () =>
             <br />Una famiglia numerosa,
             <br />un progetto per i lavoratori agricoli,
             <br />la speranza di una giustizia sociale.
-            <br />La morte per omicidio
+            <br />Le minacce, la scelta della lotta disarmata,
+            <br />la morte per omicidio
             <br />sopraggiunta all’1.50 a fermare tutto.
             <br />O a trasformare tutto...
             <br />

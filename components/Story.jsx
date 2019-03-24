@@ -78,7 +78,7 @@ const Story = () =>
         <ImagesContainer><Image src='static/fanin_7.jpg' /></ImagesContainer>
 
         <h2>Giuseppe e l'impegno sociale</h2>
-        <p>Ancora universitario, Giuseppe entra nell'associazione dei lavoratori cristiani di Bologna, dedicandosi allo studio dei problemi del mondo agricolo e della dottrina sociale cristiana. Dopo la laurea nonostante altre offerte di lavoro economicamente allettanti, egli preferisce continuare l'impegno dell'associazione, divenendone un dirigente del settore terra organizza è arrivato il lavoro, collaborano progettazione di cooperative agricole operai e promuove la costituzione della sezione territoriale del sindacato libro di ispirazione Cristiana la sua attività appassionata aeroporto teneri incontri in numerosissime località e provincia. Il 7 novembre 1948 avrebbe dovuto presentare un innovativo contratto di compartecipazione dei braccianti in un pubblico convegno organizzato a Molinella con la presenza del sottosegretario dell'Agricoltura. Ma muore due giorni prima ucciso da tre iscritti del PCI locale.</p>
+        <p>Ancora universitario, Giuseppe entra nell'associazione dei lavoratori cristiani di Bologna, dedicandosi allo studio dei problemi del mondo agricolo e della dottrina sociale cristiana. Dopo la laurea nonostante altre offerte di lavoro economicamente allettanti, egli preferisce continuare l'impegno dell'associazione, divenendone un dirigente del settore terra: organizza (è arrivato) il lavoro, collabora alla progettazione di cooperative agricole operai e promuove la costituzione della sezione territoriale del sindacato libero di ispirazione cristiana. La sua attività appassionata( aeroporto teneri) lo porta a tenere incontri in numerosissime località della provincia. Il 7 novembre 1948 avrebbe dovuto presentare un innovativo contratto di compartecipazione dei braccianti in un pubblico convegno organizzato a Molinella con la presenza del sottosegretario dell'Agricoltura. Ma muore due giorni prima ucciso da tre iscritti del PCI locale.</p>
         <ImagesContainer><Image src='static/fanin_8.jpg' /></ImagesContainer>
 
         <h2>Giuseppe e la scelta della non violenza</h2>
@@ -125,7 +125,7 @@ const Story = () =>
         <p><i>Nella canzone vengono richiamati gli aspetti cardine della vita del Servo di Dio, ovvero i valori cristiani, la semplicità e l’amore per la fidanzata. Da un’ intervista la spiegazione del titolo del brano “Indica l’ora nella quale è morto, ma rimanda anche alla luna che ha illuminato la sua strada negli ultimi suoi passi, e alle cinquanta «Ave Maria» del rosario, al quale era molto legato.”</i></p>
 
         <h2>Nel nome di Giuseppe Fanin</h2>
-        <p>L’uccisione di Giuseppe Fanin ebbe un eco profonda nel paese. Da allora e non solo nel bolognese continuano ad aprirsi nuove sedi sociali... </p>
+        <p>L’uccisione di Giuseppe Fanin ebbe un eco profondo nel paese. Da allora e non solo nel bolognese continuano ad aprirsi nuove sedi sociali... </p>
         <p>... E ad attenuarsi nuovi iniziative che portano il suo nome, intendendo ispirarsi all’esempio della sua vita e alla sua luminosa testimonianza cristiana.</p>
 
         <h3>PREGHIERA</h3>
@@ -146,7 +146,7 @@ const Story = () =>
             <br />perché possiamo diffondere il messaggio
             <br />di riconciliazione e di salvezza
             <br />che emana dal suo esempio.
-            <br />Per Cristo nostro signore. Amen.
+            <br />Per Cristo nostro Signore. Amen.
         </p>
     </TextContainer>);
 }
