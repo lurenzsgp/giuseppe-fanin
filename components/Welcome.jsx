@@ -48,22 +48,6 @@ const Title = styled.span`
         font-size: 1.5rem;
         line-height: 2.25rem;
     `}
-
-`;
-
-const TextContainer = styled.div`
-    color: ${props => props.theme.color.dark_liver};
-    background-color: ${props => transparentize(.5, props.theme.color.white)};
-
-    padding: 2rem;
-    border-radius: 10px;
-
-    font-size: 1rem;
-    line-height: 1.5rem;
-    font-weight: 400;
-
-    box-sizing: border-box;
-    width: 60vw;
 `;
 
 const Welcome = () =>
