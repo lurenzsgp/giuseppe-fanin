@@ -1,5 +1,4 @@
 // import Link from 'next/Link';
-import {transparentize} from 'polished';
 import styled, {media} from '../utils/ThemedComponent';
 
 const TitleGrid = styled.div`
