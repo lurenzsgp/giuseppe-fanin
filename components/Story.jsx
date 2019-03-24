@@ -30,6 +30,7 @@ const TextContainer = styled.div`
 const ImagesContainer = styled.div`
     display: flex;
     flex-direction: column;
+    align-items: center;
 
     width: 100%;
     ${media.desktop`
