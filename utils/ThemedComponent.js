@@ -3,20 +3,19 @@ import {withTheme} from 'styled-components';
 
 export const theme = {
     color: {
-        blue: {
-            standard: '#51a3a3',
-            light: '#a8d0db',
-            dark: '#2b4570'
-        },
-        brown: '#a37a74',
-        orange: '#e49273',
         black: 'black',
-        white: 'white'
+        white: 'white',
+        dark_liver: '#5b4b49',
+        tuscan: '#e4d6a7',
+        sandy_brown: '#fc9f5b',
+        rajah: '#ffc15e',
+        coyote_brown: '#8b5d33',
+        black_bean: '#371A00'
     },
 }
 
 export const sizes = {
-    hd: 1220,
+    hd: 1440,
     desktop: 992,
     tablet: 768,
     phone: 576

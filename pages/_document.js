@@ -13,12 +13,12 @@ export default class MyCustomDocument extends Document {
 		return (
 		<html>
 			<Head>
-			{this.props.styleTags}
-			<link rel="icon" type="image/x-icon" href='https://upload.wikimedia.org/wikipedia/it/7/7a/Giuseppe_Fanin.jpg' />
+				{this.props.styleTags}
+				<link rel="icon" type="image/x-icon" href='https://upload.wikimedia.org/wikipedia/it/7/7a/Giuseppe_Fanin.jpg' />
 			</Head>
 			<body>
-			<Main />
-			<NextScript />
+				<Main />
+				<NextScript />
 			</body>
 		</html>
 		)

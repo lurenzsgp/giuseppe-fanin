@@ -1,17 +1,20 @@
 import styled, {createGlobalStyle, ThemeProvider, theme} from '../utils/ThemedComponent';
 
 const GlobalStyle = createGlobalStyle`
+    @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+
     body
     {
         height: 100vh;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-image: url('static/bike.jpg');
-        background-color: ${props => props.theme.color.blue.standard};
+        // background-position: center;
+        // background-repeat: no-repeat;
+        // background-attachment: fixed;
+        // background-size: cover;
+        // background-image: url('static/bike.jpg');
+        background-color: ${props => props.theme.color.tuscan};
+        margin: 0;
 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        font-family: 'Roboto Slab', serif;
         font-smooth: antialiased;
     }
 `
